@@ -1,0 +1,9 @@
+04-01-11 07:00:00,b'Address',94121,b'FULLNAME',FooDuration,BarDuration,TotalDuration,b'Notes'
+03-11-14 20:00:00,"b'123 4th St, Anywhere, AA'",10000,b'MONKEY ALBERTO',5012.123,5553.123,10565.246,b'I am the very model of a modern major general'
+02-29-16 07:11:11,"b'Somewhere Else, In Another Time, BB'",11010,b'SUPERMAN \xc3\x9cBERTAN',401012.123,5553.123,406565.24600000004,b'This is some Unicode right here. \xc3\xbc \xc2\xa1! \xf0\x9f\x98\x80'
+12-31-10 19:00:01,b'111 Ste. #123123123',94121,b'R\xc3\x89SUM\xc3\x89 RON',113012.123,5553.123,118565.24600000001,b'\xf0\x9f\x8f\xb3\xef\xb8\x8f\xf0\x9f\x8f\xb4\xf0\x9f\x8f\xb3\xef\xb8\x8f\xf0\x9f\x8f\xb4'
+12-31-16 18:59:59,"b'This Is Not An Address, BusyTown, BT'",31403,b'MARY 1',5012.123,0.0,5012.123,b'I like Emoji! \xf0\x9f\x8d\x8f\xf0\x9f\x8d\x8e\xf0\x9f\x98\x8d'
+11-11-11 06:11:11,"b'123 Gangnam Style Lives Here, Gangnam Town'",10001,b'ANTICIPATION OF UNICODE FAILURE',5012.123,5553.123,10565.246,b'I like Math Symbols! \xe2\x89\xb1\xe2\x89\xb0\xe2\xa8\x8c\xe2\x8a\x9a'
+05-12-10 12:48:12,b'\xc3\xbcberTown',12310,b'PROMPT NEGOTIATOR',5012.123,5553.123,10565.246,"b'I\xe2\x80\x99m just gonna say, this is AMAZING. WHAT NEGOTIATIONS.'"
+10-05-12 18:31:11,b'H\xc3\xb8\xc3\xb8\xc3\xbck\xc2\xa1',12100,b'SLEEPER SERVICE',5012.123,5553.123,10565.246,b'2/1/22'
+10-02-04 04:44:11,"b'Test Pattern Town, Test Pattern, TP'",11000,b'\xe6\xa0\xaa\xe5\xbc\x8f\xe4\xbc\x9a\xe7\xa4\xbe\xe3\x82\xb9\xe3\x82\xbf\xe3\x82\xb8\xe3\x82\xaa\xe3\x82\xb8\xe3\x83\x96\xe3\x83\xaa',5012.123,5553.123,10565.246,b'1:11:11.123'
